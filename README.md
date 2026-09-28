@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tavutu Vishnuvardhan Reddy</h1>
 
 <h3 align="center">
-Aspiring AI Engineer | GenAI | AI Automation | Python | Full-Stack Development
+Aspiring AI Engineer | GenAI | AI Automation | Python | Backend & Full-Stack Development
 </h3>
 
 <p align="center">
@@ -20,19 +20,18 @@ Aspiring AI Engineer | GenAI | AI Automation | Python | Full-Stack Development
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate interested in building practical **AI-powered applications, Generative AI solutions, AI agents, workflow automations, and backend systems**.
+I'm a Computer Science graduate focused on building practical **AI-powered applications, Generative AI solutions, AI agents, workflow automations, and backend systems**.
 
-I enjoy combining **Python, LLMs, APIs, automation platforms, databases, and modern web technologies** to solve real-world problems.
+I work with **Python, LLMs, n8n, REST APIs, Django, React, SQL, and AI automation tools** to build practical solutions.
 
-- 🤖 Interested in **AI Engineering, GenAI, AI Agents & AI Automation**
-- 🐍 Building applications with **Python**
-- 🧠 Exploring **LLMs, RAG, Prompt Engineering & AI Agents**
-- ⚙️ Building workflow automations using **n8n**
-- 🌐 Developing web applications using **React & Django**
-- 🔗 Working with **REST APIs, Webhooks, JSON & SaaS integrations**
-- 📊 Working with **SQL, Pandas, Power BI & Excel**
+- 🤖 AI Engineering, GenAI & AI Automation
+- 🧠 LLMs, RAG, Prompt Engineering & AI Agents
+- ⚙️ n8n workflow automation & API integrations
+- 🐍 Python backend development
+- 🌐 React & Django application development
+- 🔗 REST APIs, Webhooks, JSON & SaaS integrations
+- 📊 SQL, Pandas, Power BI & Excel
 - 📍 Hyderabad, Telangana, India
-- 📫 **vishnuvardhanreddy.tavutu@gmail.com**
 
 ---
 
@@ -63,6 +62,7 @@ An AI-powered recruitment workflow that automates candidate screening and organi
 AI-powered conversational automation built using n8n and LLMs with external data sources and workflow integrations.
 
 **Features:**
+
 - AI-powered conversations
 - FAQ handling
 - Conversation memory
@@ -100,63 +100,81 @@ A machine-learning project for text sentiment classification using TF-IDF featur
 
 ## 🛠️ Technical Skills
 
-### Programming
+### 👨‍💻 Programming
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" alt="CSS3"/>
 </p>
 
-### AI & Generative AI
+**Python • JavaScript • Java • HTML • CSS**
+
+---
+
+### 🤖 AI & Generative AI
 
 <p>
-<img src="https://img.shields.io/badge/Generative%20AI-LLMs-blueviolet?style=for-the-badge" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-orange?style=for-the-badge" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-blueviolet?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-orange?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=for-the-badge" alt="NLP"/>
 </p>
 
-### AI Automation & APIs
+**Generative AI • LLMs • AI Agents • RAG • Prompt Engineering • NLP**
+
+---
+
+### ⚙️ AI Automation & APIs
 
 <p>
-<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/OpenAI-LLM-black?style=for-the-badge&logo=openai" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-Generative%20AI-4285F4?style=for-the-badge&logo=google" alt="Google Gemini"/>
-<img src="https://img.shields.io/badge/REST%20APIs-Integration-02569B?style=for-the-badge" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Webhooks-Integration-6C63FF?style=for-the-badge" alt="Webhooks"/>
-<img src="https://img.shields.io/badge/JSON-Data-black?style=for-the-badge" alt="JSON"/>
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenAI-LLM-black?style=for-the-badge&logo=openai" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-Generative%20AI-4285F4?style=for-the-badge&logo=google" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-02569B?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Webhooks-Integration-6C63FF?style=for-the-badge" alt="Webhooks"/>
+  <img src="https://img.shields.io/badge/JSON-Data-black?style=for-the-badge" alt="JSON"/>
 </p>
 
-### Web Development
+**n8n • OpenAI • Google Gemini • REST APIs • Webhooks • JSON**
+
+---
+
+### 🌐 Web Development
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" alt="Django"/>
 </p>
 
 **React • Django • Django REST Framework • HTML • CSS • JavaScript**
 
-### Databases & Data
+---
+
+### 🗄️ Databases & Data
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
 </p>
 
 **SQL • MySQL • Pandas • NumPy • Power BI • DAX • Excel**
 
-### Development Tools
+---
+
+### 🔧 Development Tools
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
 </p>
+
+**Git • GitHub • VS Code**
 
 ---
 
@@ -171,14 +189,35 @@ A machine-learning project for text sentiment classification using TF-IDF featur
 
 ## 🎯 Current Focus
 
-```text
-AI Engineering
-Generative AI
-AI Agents
-AI Automation
-LLM Applications
-RAG
-Prompt Engineering
-Python Backend Development
-Full-Stack Development
-REST APIs & Integrations
+- 🤖 AI Engineering
+- 🧠 Generative AI & LLM Applications
+- 🔗 AI Agents & Agentic AI
+- ⚙️ AI Automation with n8n
+- 📚 RAG & Prompt Engineering
+- 🐍 Python Backend Development
+- 🌐 Full-Stack Development
+- 🔌 REST APIs & Integrations
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://vishnuvardhanreddytavutu.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
+
+  <a href="https://linkedin.com/in/vishnuvardhanreddytavutu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:vishnuvardhanreddy.tavutu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building practical AI solutions and continuously learning 🚀</i>
+</p>
