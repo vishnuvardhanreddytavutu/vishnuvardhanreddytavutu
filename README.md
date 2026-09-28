@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tavutu Vishnuvardhan Reddy</h1>
 
-<h3 align="center">Aspiring AI Engineer | GenAI & AI Automation | Python | Full-Stack Development</h3>
+<h3 align="center">
+Aspiring AI Engineer | GenAI | AI Automation | Python | Full-Stack Development
+</h3>
 
 <p align="center">
   <a href="https://vishnuvardhanreddytavutu.netlify.app/">
@@ -14,28 +16,23 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnuvardhanreddytavutu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate interested in building **AI-powered applications, Generative AI solutions, AI agents, workflow automations, and backend systems**.
+I'm a Computer Science graduate interested in building practical **AI-powered applications, Generative AI solutions, AI agents, workflow automations, and backend systems**.
 
-I enjoy solving practical problems by combining **Python, LLMs, APIs, automation platforms, databases, and modern web technologies**.
+I enjoy combining **Python, LLMs, APIs, automation platforms, databases, and modern web technologies** to solve real-world problems.
 
-* 🤖 Interested in **AI Engineering, GenAI, AI Agents & AI Automation**
-* 🐍 Building applications using **Python**
-* 🧠 Exploring **LLMs, RAG, Prompt Engineering & AI Agents**
-* ⚙️ Building workflow automations using **n8n**
-* 🌐 Developing full-stack applications using **React & Django**
-* 🔗 Working with **REST APIs, Webhooks, JSON & SaaS integrations**
-* 📊 Working with **SQL, Pandas, Power BI & data analysis**
-* 💡 Interested in building practical AI solutions for real-world use cases
-* 📍 Hyderabad, Telangana, India
-* 📫 **[vishnuvardhanreddy.tavutu@gmail.com](mailto:vishnuvardhanreddy.tavutu@gmail.com)**
+- 🤖 Interested in **AI Engineering, GenAI, AI Agents & AI Automation**
+- 🐍 Building applications with **Python**
+- 🧠 Exploring **LLMs, RAG, Prompt Engineering & AI Agents**
+- ⚙️ Building workflow automations using **n8n**
+- 🌐 Developing web applications using **React & Django**
+- 🔗 Working with **REST APIs, Webhooks, JSON & SaaS integrations**
+- 📊 Working with **SQL, Pandas, Power BI & Excel**
+- 📍 Hyderabad, Telangana, India
+- 📫 **vishnuvardhanreddy.tavutu@gmail.com**
 
 ---
 
@@ -43,9 +40,9 @@ I enjoy solving practical problems by combining **Python, LLMs, APIs, automation
 
 ### 🤖 SupportAI — AI Customer Support Platform
 
-A full-stack AI-powered customer support platform designed to manage customers, support tickets, AI conversations, knowledge base content, and analytics.
+A full-stack AI-powered customer support platform for managing customers, support tickets, AI conversations, knowledge base content, and analytics.
 
-**Tech Stack:** React, Vite, Django, Django REST Framework, Python, REST APIs, SQL, AI
+**Tech Stack:** React, Vite, Django, Django REST Framework, Python, SQL, AI
 
 ---
 
@@ -53,24 +50,25 @@ A full-stack AI-powered customer support platform designed to manage customers, 
 
 An AI-powered recruitment workflow that automates candidate screening and organizes candidate information based on job requirements.
 
-**Workflow:** Resume → Candidate Data Extraction → AI Evaluation → Matching → Google Sheets
+**Workflow:**
 
-**Tech Stack:** n8n, AI/LLMs, Google Sheets, Webhooks, JSON, Automation
+`Resume → Data Extraction → AI Evaluation → Matching → Google Sheets`
+
+**Tech Stack:** n8n, AI/LLMs, Google Sheets, Webhooks, JSON
 
 ---
 
 ### 💬 AI Chatbot Automation
 
-AI-powered conversational automation using n8n and LLMs with external data sources and workflow integrations.
+AI-powered conversational automation built using n8n and LLMs with external data sources and workflow integrations.
 
 **Features:**
-
-* AI-powered conversations
-* FAQ handling
-* Memory
-* Google Sheets integration
-* Unanswered-question logging
-* External workflow integrations
+- AI-powered conversations
+- FAQ handling
+- Conversation memory
+- Google Sheets integration
+- Unanswered-question logging
+- Workflow integrations
 
 **Tech Stack:** n8n, Google Gemini, OpenAI, AI Agents, Google Sheets, Webhooks
 
@@ -78,7 +76,7 @@ AI-powered conversational automation using n8n and LLMs with external data sourc
 
 ### 🏨 AI Hotel Room Booking Automation
 
-Automated hotel booking workflow connecting customer requests with booking data, email notifications, and workflow automation.
+An automated hotel booking workflow connecting customer requests with booking data, email notifications, and workflow automation.
 
 **Tech Stack:** n8n, Webhooks, Google Sheets, Gmail, JSON, AI Automation
 
@@ -86,7 +84,7 @@ Automated hotel booking workflow connecting customer requests with booking data,
 
 ### 🌾 Farm-to-Table Marketplace
 
-A marketplace application designed to connect customers with farm products through an online platform.
+An online marketplace application designed to connect customers with farm products.
 
 **Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQL
 
@@ -94,7 +92,7 @@ A marketplace application designed to connect customers with farm products throu
 
 ### 📊 Sentiment Analysis
 
-Machine-learning project for classifying text sentiment using TF-IDF feature extraction and Logistic Regression.
+A machine-learning project for text sentiment classification using TF-IDF feature extraction and Logistic Regression.
 
 **Tech Stack:** Python, Pandas, Scikit-learn, NLP, TF-IDF, Machine Learning
 
@@ -102,17 +100,17 @@ Machine-learning project for classifying text sentiment using TF-IDF feature ext
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+### Programming
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" alt="CSS3"/>
 </p>
 
-### 🤖 AI & Generative AI
+### AI & Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/Generative%20AI-LLMs-blueviolet?style=for-the-badge" alt="Generative AI"/>
@@ -122,7 +120,7 @@ Machine-learning project for classifying text sentiment using TF-IDF feature ext
 <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=for-the-badge" alt="NLP"/>
 </p>
 
-### ⚙️ AI Automation & Integrations
+### AI Automation & APIs
 
 <p>
 <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
@@ -133,52 +131,41 @@ Machine-learning project for classifying text sentiment using TF-IDF feature ext
 <img src="https://img.shields.io/badge/JSON-Data-black?style=for-the-badge" alt="JSON"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-Backend-092E20?style=for-the-badge&logo=django" alt="Django REST Framework"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" alt="Django"/>
 </p>
 
-### 🗄️ Databases & Data
+**React • Django • Django REST Framework • HTML • CSS • JavaScript**
+
+### Databases & Data
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
 </p>
 
-**SQL • Pandas • NumPy • Power BI • DAX • Excel**
+**SQL • MySQL • Pandas • NumPy • Power BI • DAX • Excel**
 
-### 🔧 Development Tools
+### Development Tools
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
 </p>
 
 ---
 
 ## 📜 Certifications
 
-* **Oracle** — Java Programming & SQL
-* **Cisco** — Programming Essentials in Python
-* **Brain-O-Vision** — Data Science & Machine Learning
-* **Palo Alto Networks** — Cybersecurity & Cloud Security
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanreddytavutu&show_icons=true&locale=en" alt="GitHub Statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhanreddytavutu&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
+- **Oracle** — Java Programming & SQL
+- **Cisco** — Programming Essentials in Python
+- **Brain-O-Vision** — Data Science & Machine Learning
+- **Palo Alto Networks** — Cybersecurity & Cloud Security
 
 ---
 
@@ -195,29 +182,3 @@ Prompt Engineering
 Python Backend Development
 Full-Stack Development
 REST APIs & Integrations
-```
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://vishnuvardhanreddytavutu.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1NGr308z-6a_h06vIkofDFTlXnOu0qegg/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View%20Resume-red?style=for-the-badge" alt="Resume"/>
-  </a>
-  <a href="https://linkedin.com/in/vishnuvardhanreddytavutu">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vishnuvardhanreddy.tavutu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building practical AI solutions and continuously learning 🚀</i>
-</p>
