@@ -39,7 +39,7 @@ I work with **Python, LLMs, n8n, REST APIs, Django, React, SQL, and AI automatio
 
 ### 🤖 SupportAI — AI Customer Support Platform
 
-A full-stack AI-powered customer support platform for managing customers, support tickets, AI conversations, knowledge base content, and analytics.
+A full-stack AI-powered customer support platform currently being developed to manage customers, support tickets, AI conversations, knowledge base content, and analytics.
 
 **Tech Stack:** React, Vite, Django, Django REST Framework, Python, SQL, AI
 
@@ -87,14 +87,6 @@ An automated hotel booking workflow connecting customer requests with booking da
 An online marketplace application designed to connect customers with farm products.
 
 **Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQL
-
----
-
-### 📊 Sentiment Analysis
-
-A machine-learning project for text sentiment classification using TF-IDF feature extraction and Logistic Regression.
-
-**Tech Stack:** Python, Pandas, Scikit-learn, NLP, TF-IDF, Machine Learning
 
 ---
 
