@@ -1,23 +1,223 @@
-<h1 align="center">Hi 👋, I'm Tavutu vishnuvardhan Reddy</h1>
-<h3 align="center">Aspiring Full Stack Developer | Learning Python & Modern Web Technologies passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tavutu Vishnuvardhan Reddy</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvardhanreddytavutu&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvardhanreddytavutu" /> </p>
+<h3 align="center">Aspiring AI Engineer | GenAI & AI Automation | Python | Full-Stack Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuvardhanreddytavutu" alt="vishnuvardhanreddytavutu" /></a> </p>
-
-- 📫 How to reach me **vishnuvardhanreddy.tavutu@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1CaBiucJb4xKUQJMiTBS__DFlCnLchD3y?usp=sharing](https://drive.google.com/drive/folders/1CaBiucJb4xKUQJMiTBS__DFlCnLchD3y?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishnuvardhanreddytavutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuvardhanreddytavutu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://vishnuvardhanreddytavutu.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1NGr308z-6a_h06vIkofDFTlXnOu0qegg/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-red?style=for-the-badge" alt="Resume"/>
+  </a>
+  <a href="https://linkedin.com/in/vishnuvardhanreddytavutu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishnuvardhanreddytavutu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhanreddytavutu&show_icons=true&locale=en&layout=compact" alt="vishnuvardhanreddytavutu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanreddytavutu&show_icons=true&locale=en" alt="vishnuvardhanreddytavutu" /></p>
+## 👨‍💻 About Me
 
+I'm a Computer Science graduate interested in building **AI-powered applications, Generative AI solutions, AI agents, workflow automations, and backend systems**.
+
+I enjoy solving practical problems by combining **Python, LLMs, APIs, automation platforms, databases, and modern web technologies**.
+
+* 🤖 Interested in **AI Engineering, GenAI, AI Agents & AI Automation**
+* 🐍 Building applications using **Python**
+* 🧠 Exploring **LLMs, RAG, Prompt Engineering & AI Agents**
+* ⚙️ Building workflow automations using **n8n**
+* 🌐 Developing full-stack applications using **React & Django**
+* 🔗 Working with **REST APIs, Webhooks, JSON & SaaS integrations**
+* 📊 Working with **SQL, Pandas, Power BI & data analysis**
+* 💡 Interested in building practical AI solutions for real-world use cases
+* 📍 Hyderabad, Telangana, India
+* 📫 **[vishnuvardhanreddy.tavutu@gmail.com](mailto:vishnuvardhanreddy.tavutu@gmail.com)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 SupportAI — AI Customer Support Platform
+
+A full-stack AI-powered customer support platform designed to manage customers, support tickets, AI conversations, knowledge base content, and analytics.
+
+**Tech Stack:** React, Vite, Django, Django REST Framework, Python, REST APIs, SQL, AI
+
+---
+
+### 🧑‍💼 AI Recruitment Automation
+
+An AI-powered recruitment workflow that automates candidate screening and organizes candidate information based on job requirements.
+
+**Workflow:** Resume → Candidate Data Extraction → AI Evaluation → Matching → Google Sheets
+
+**Tech Stack:** n8n, AI/LLMs, Google Sheets, Webhooks, JSON, Automation
+
+---
+
+### 💬 AI Chatbot Automation
+
+AI-powered conversational automation using n8n and LLMs with external data sources and workflow integrations.
+
+**Features:**
+
+* AI-powered conversations
+* FAQ handling
+* Memory
+* Google Sheets integration
+* Unanswered-question logging
+* External workflow integrations
+
+**Tech Stack:** n8n, Google Gemini, OpenAI, AI Agents, Google Sheets, Webhooks
+
+---
+
+### 🏨 AI Hotel Room Booking Automation
+
+Automated hotel booking workflow connecting customer requests with booking data, email notifications, and workflow automation.
+
+**Tech Stack:** n8n, Webhooks, Google Sheets, Gmail, JSON, AI Automation
+
+---
+
+### 🌾 Farm-to-Table Marketplace
+
+A marketplace application designed to connect customers with farm products through an online platform.
+
+**Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQL
+
+---
+
+### 📊 Sentiment Analysis
+
+Machine-learning project for classifying text sentiment using TF-IDF feature extraction and Logistic Regression.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, NLP, TF-IDF, Machine Learning
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+</p>
+
+### 🤖 AI & Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-LLMs-blueviolet?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-orange?style=for-the-badge" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=for-the-badge" alt="NLP"/>
+</p>
+
+### ⚙️ AI Automation & Integrations
+
+<p>
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/OpenAI-LLM-black?style=for-the-badge&logo=openai" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-Generative%20AI-4285F4?style=for-the-badge&logo=google" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-02569B?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Webhooks-Integration-6C63FF?style=for-the-badge" alt="Webhooks"/>
+<img src="https://img.shields.io/badge/JSON-Data-black?style=for-the-badge" alt="JSON"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-Backend-092E20?style=for-the-badge&logo=django" alt="Django REST Framework"/>
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+</p>
+
+**SQL • Pandas • NumPy • Power BI • DAX • Excel**
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
+
+---
+
+## 📜 Certifications
+
+* **Oracle** — Java Programming & SQL
+* **Cisco** — Programming Essentials in Python
+* **Brain-O-Vision** — Data Science & Machine Learning
+* **Palo Alto Networks** — Cybersecurity & Cloud Security
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanreddytavutu&show_icons=true&locale=en" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhanreddytavutu&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+AI Engineering
+Generative AI
+AI Agents
+AI Automation
+LLM Applications
+RAG
+Prompt Engineering
+Python Backend Development
+Full-Stack Development
+REST APIs & Integrations
+```
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://vishnuvardhanreddytavutu.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1NGr308z-6a_h06vIkofDFTlXnOu0qegg/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-red?style=for-the-badge" alt="Resume"/>
+  </a>
+  <a href="https://linkedin.com/in/vishnuvardhanreddytavutu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vishnuvardhanreddy.tavutu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building practical AI solutions and continuously learning 🚀</i>
+</p>
